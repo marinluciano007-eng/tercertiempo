@@ -1,0 +1,1 @@
+- Business data (hours, phones, menu, services) lives only in src/data/restaurant.ts; reservation rules in src/lib/reservas.ts — single source so updates and a future booking backend need no UI rewrite.
